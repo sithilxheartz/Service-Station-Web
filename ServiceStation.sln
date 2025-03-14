@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStation.Web", "ServiceStation.Web\ServiceStation.Web.csproj", "{45EE7DE9-28B5-4227-A5BC-A85DF68173B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EE7DE9-28B5-4227-A5BC-A85DF68173B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EE7DE9-28B5-4227-A5BC-A85DF68173B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EE7DE9-28B5-4227-A5BC-A85DF68173B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EE7DE9-28B5-4227-A5BC-A85DF68173B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
