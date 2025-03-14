@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServiceStation.Web",
+    "\\ServiceStation.Web\\Controllers",
+    "\\ServiceStation.Web\\Migrations",
+    "\\ServiceStation.Web\\Models"
+  ],
+  "SelectedNode": "\\ServiceStation.Web\\Controllers",
+  "PreviewInSolutionExplorer": false
+}

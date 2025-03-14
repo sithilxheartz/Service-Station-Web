@@ -1,0 +1,22 @@
+﻿@{
+	var service = ViewData["service"] as VehicleService;
+}
+
+<h1>@ViewData["PageTitle"]</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Service Name</th>
+			<th>Service Description</th>
+			<th>Service Price</th>
+		</tr>
+	</thead>
+    <tr>
+        <td>@service.Title</td>
+		<td>@service.Description</td>
+		<td>@service.Cost</td>
+    </tr>
+</table>
+
+

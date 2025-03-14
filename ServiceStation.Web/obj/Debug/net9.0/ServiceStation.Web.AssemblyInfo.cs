@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceStation.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5da597b016c8b7b05df458a7cdc3ff3bc6ff966")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceStation.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceStation.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

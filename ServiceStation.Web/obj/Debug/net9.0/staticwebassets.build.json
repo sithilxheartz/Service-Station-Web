@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GXKF3mZZjkplleUnspaAHPckS9wcrnkBFRCF8kIs7G8=",
+  "Hash": "f+iQ6LR532UjMDZqj0s5/xrCPWfT2ddOZeVqjhr+YHg=",
   "Source": "ServiceStation.Web",
   "BasePath": "_content/ServiceStation.Web",
   "Mode": "Default",
@@ -332,12 +332,12 @@
       "OriginalItemSpec": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-alp53346md.gz",
+      "Identity": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-jqn56zx2dz.gz",
       "SourceId": "ServiceStation.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ServiceStation.Web",
-      "RelativePath": "ServiceStation.Web#[.{fingerprint=alp53346md}]?.styles.css.gz",
+      "RelativePath": "ServiceStation.Web#[.{fingerprint=jqn56zx2dz}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -346,8 +346,8 @@
       "RelatedAsset": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ServiceStation.Web.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4et9yyz1as",
-      "Integrity": "9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=",
+      "Fingerprint": "j9rdrl26mk",
+      "Integrity": "uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ServiceStation.Web.styles.css"
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-alp53346md.gz",
+      "Identity": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-jqn56zx2dz.gz",
       "SourceId": "ServiceStation.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ServiceStation.Web",
-      "RelativePath": "ServiceStation.Web#[.{fingerprint=alp53346md}]!.bundle.scp.css.gz",
+      "RelativePath": "ServiceStation.Web#[.{fingerprint=jqn56zx2dz}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceStation.Web.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4et9yyz1as",
-      "Integrity": "9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=",
+      "Fingerprint": "j9rdrl26mk",
+      "Integrity": "uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceStation.Web.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "alp53346md",
-      "Integrity": "MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=",
+      "Fingerprint": "jqn56zx2dz",
+      "Integrity": "a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ServiceStation.Web.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "alp53346md",
-      "Integrity": "MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=",
+      "Fingerprint": "jqn56zx2dz",
+      "Integrity": "a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceStation.Web.bundle.scp.css"
@@ -21286,13 +21286,13 @@
       ]
     },
     {
-      "Route": "ServiceStation.Web.alp53346md.bundle.scp.css",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-alp53346md.gz",
+      "Route": "ServiceStation.Web.bundle.scp.css",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-jqn56zx2dz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.001694915254"
         }
       ],
       "ResponseHeaders": [
@@ -21302,19 +21302,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "589"
         },
         {
           "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -21330,26 +21330,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
+          "Value": "W/\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "alp53346md"
-        },
-        {
-          "Name": "label",
-          "Value": "ServiceStation.Web.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
         }
       ]
     },
     {
-      "Route": "ServiceStation.Web.alp53346md.bundle.scp.css",
+      "Route": "ServiceStation.Web.bundle.scp.css",
       "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceStation.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21359,7 +21351,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1136"
+          "Value": "1276"
         },
         {
           "Name": "Content-Type",
@@ -21367,11 +21359,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
+          "Value": "\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
+        }
+      ]
+    },
+    {
+      "Route": "ServiceStation.Web.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-jqn56zx2dz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8="
+        }
+      ]
+    },
+    {
+      "Route": "ServiceStation.Web.jqn56zx2dz.bundle.scp.css",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-jqn56zx2dz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001694915254"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jqn56zx2dz"
+        },
+        {
+          "Name": "label",
+          "Value": "ServiceStation.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
+        }
+      ]
+    },
+    {
+      "Route": "ServiceStation.Web.jqn56zx2dz.bundle.scp.css",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceStation.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21381,7 +21518,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "alp53346md"
+          "Value": "jqn56zx2dz"
         },
         {
           "Name": "label",
@@ -21389,13 +21526,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
         }
       ]
     },
     {
-      "Route": "ServiceStation.Web.alp53346md.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-alp53346md.gz",
+      "Route": "ServiceStation.Web.jqn56zx2dz.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-jqn56zx2dz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21404,7 +21541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "589"
         },
         {
           "Name": "Content-Type",
@@ -21412,11 +21549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21434,7 +21571,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "alp53346md"
+          "Value": "jqn56zx2dz"
         },
         {
           "Name": "label",
@@ -21442,18 +21579,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec="
+          "Value": "sha256-uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8="
         }
       ]
     },
     {
-      "Route": "ServiceStation.Web.alp53346md.styles.css",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-alp53346md.gz",
+      "Route": "ServiceStation.Web.jqn56zx2dz.styles.css",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-jqn56zx2dz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.001694915254"
         }
       ],
       "ResponseHeaders": [
@@ -21463,15 +21600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "589"
         },
         {
           "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21491,13 +21628,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
+          "Value": "W/\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "alp53346md"
+          "Value": "jqn56zx2dz"
         },
         {
           "Name": "label",
@@ -21505,12 +21642,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
         }
       ]
     },
     {
-      "Route": "ServiceStation.Web.alp53346md.styles.css",
+      "Route": "ServiceStation.Web.jqn56zx2dz.styles.css",
       "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ServiceStation.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21520,7 +21657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1136"
+          "Value": "1276"
         },
         {
           "Name": "Content-Type",
@@ -21528,11 +21665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
+          "Value": "\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21542,7 +21679,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "alp53346md"
+          "Value": "jqn56zx2dz"
         },
         {
           "Name": "label",
@@ -21550,13 +21687,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
         }
       ]
     },
     {
-      "Route": "ServiceStation.Web.alp53346md.styles.css.gz",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-alp53346md.gz",
+      "Route": "ServiceStation.Web.jqn56zx2dz.styles.css.gz",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-jqn56zx2dz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21565,7 +21702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "589"
         },
         {
           "Name": "Content-Type",
@@ -21573,11 +21710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21595,7 +21732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "alp53346md"
+          "Value": "jqn56zx2dz"
         },
         {
           "Name": "label",
@@ -21603,155 +21740,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec="
-        }
-      ]
-    },
-    {
-      "Route": "ServiceStation.Web.bundle.scp.css",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-alp53346md.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001834862385"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
-        }
-      ]
-    },
-    {
-      "Route": "ServiceStation.Web.bundle.scp.css",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceStation.Web.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
-        }
-      ]
-    },
-    {
-      "Route": "ServiceStation.Web.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\ua5h95k2nd-alp53346md.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec="
+          "Value": "sha256-uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8="
         }
       ]
     },
     {
       "Route": "ServiceStation.Web.styles.css",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-alp53346md.gz",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-jqn56zx2dz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.001694915254"
         }
       ],
       "ResponseHeaders": [
@@ -21761,15 +21761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "589"
         },
         {
           "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21789,13 +21789,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
+          "Value": "W/\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
         }
       ]
     },
@@ -21810,7 +21810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1136"
+          "Value": "1276"
         },
         {
           "Name": "Content-Type",
@@ -21818,11 +21818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0=\""
+          "Value": "\"a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21832,13 +21832,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MmDD2OCr1ev6hfOlShJlGtU+qyGY63Y2yaj0lU7NZE0="
+          "Value": "sha256-a8mYG7eWJsgd+pHN5WfaeNyy3ZP4zESSj9Uzf6BMnKs="
         }
       ]
     },
     {
       "Route": "ServiceStation.Web.styles.css.gz",
-      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-alp53346md.gz",
+      "AssetFile": "C:\\Users\\sithi\\OneDrive\\Desktop\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\compressed\\6pb1lvqszs-jqn56zx2dz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21847,7 +21847,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "589"
         },
         {
           "Name": "Content-Type",
@@ -21855,11 +21855,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec=\""
+          "Value": "\"uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 03:32:00 GMT"
+          "Value": "Fri, 14 Mar 2025 09:45:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21877,7 +21877,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9GiAo4OojAnFnxoQQbG9h3NKEGKJo1mqNBiLYejqHec="
+          "Value": "sha256-uSXpq31tdeurlxA380ms30/7zKqmOJ90wds2t4haoD8="
         }
       ]
     }

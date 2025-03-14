@@ -1,7 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using ServiceStation.Web.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ServiceDbContext>(options =>
+{
+    options.UseSqlServer(@"Server=(localdb)\MSSQLLocaldb;Database=ServiceStation;Trusted_Connection=True;");
+});
 
 var app = builder.Build();
 
